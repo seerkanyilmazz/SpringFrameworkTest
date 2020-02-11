@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans https://www.springframework.org/schema/beans/spring-beans-4.3.xsd">
+
+
+	<bean id="selam" class="com.seerkanyilmazz.Selam">
+		<property name="mesaj"
+			value="Güze gören güzel düşünür, güzel düşünen hayatından lezzet alır">
+		</property>
+	</bean>
+</beans>
